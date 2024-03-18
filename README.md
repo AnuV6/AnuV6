@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Anupa_Dinuranga</h1>
-<h3 align="center">A passionate backend developer from SriLanka.</h3>
+<h3 align="center">A passionate fullstack developer from SriLanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuv6&label=Profile%20views&color=0e75b6&style=flat" alt="anuv6" /> </p>
 

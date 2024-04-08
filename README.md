@@ -28,6 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuv6&show_icons=true&locale=en&layout=compact" alt="anuv6" /></p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/CoderAllen.png" alt="TryHackMe">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuv6&show_icons=true&locale=en" alt="anuv6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuv6&" alt="anuv6" /></p>

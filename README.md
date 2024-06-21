@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/anupa_dinuranga" target="blank"><img src="https://img.shields.io/twitter/follow/anupa_dinuranga?logo=twitter&style=for-the-badge" alt="anupa_dinuranga" /></a> </p>
 
-- 🌱 I’m currently learning **js/react/native**
+- 🌱 I’m currently learning **Next JS/Flutter**
 
 - 🤝 I’m looking for help with **Any js/java projects**
 

@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuv6&show_icons=true&locale=en" alt="anuv6" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuv6&" alt="anuv6" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnuV6&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>

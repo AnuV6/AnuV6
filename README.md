@@ -2,21 +2,25 @@
 <h1 align="center">Hi 👋, I'm Anupa_Dinuranga</h1>
 <h3 align="center">A passionate full-stack developer from SriLanka.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuv6&label=Profile%20views&color=0e75b6&style=flat" alt="anuv6" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Nextjs/Flutter<br><br>👯 I’m looking to collaborate on React/Nextjs/Firebase/Flutter<br><br>🤝 I’m looking for help with React/Nextjs/Firebase/Flutter<br><br>🌱 I’m currently learning Flutter/NextJs<br><br>💬 Ask me about Anupa4085@gmail.com<br><br>⚡ Fun fact I'm crazy wid programming | Coder4113N <br>
 
+<img align="center" alt="line" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"><br>
+
+<img align="right" alt="Coding" height="300" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anupa.7) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupadinuranga)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anuv6) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12830080) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuv6) <br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12830080) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuv6) <br>
 
 
-# </> Profile Badges
+# 📝 Profile Badges:
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Coder4113n.png)](https://tryhackme.com) <br>
 
 
@@ -31,6 +35,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anuv6&theme=nightowl&no-frame=false&no-bg=true&margin-w=4) <br>
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) <br>
 
@@ -40,4 +45,4 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AnuV6) 
 
-  
+<img align="center" alt="THANK YOU" src="https://camo.githubusercontent.com/ec8d525f42fda2bdb72beed5de5b5c6cf8db94009594b33176f6bc57fdea3ac9/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d5468616e6b73253230466f7225323056697369746e67213b54616b65253230412532304c6f6f6b25323061742532306d792532305265706f7369746f72696573253230e2ad90f09f91873b466f6c6c6f772e2e3b596f7572253230447265616d73253230f09f98893b26666f6e743d506163696669636f2663656e7465723d747275652677696474683d363530266865696768743d31303026636f6c6f723d353861366666267643656e7465723d747275652673697a653d3138">

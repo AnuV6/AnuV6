@@ -1,12 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Anupa_Dinuranga</h1>
-<h3 align="center">A passionate full-stack developer from SriLanka.</h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer from SriLanka.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuv6&label=Profile%20views&color=0e75b6&style=flat" alt="anuv6" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Nextjs/Flutter<br><br>👯 I’m looking to collaborate on React/Nextjs/Firebase/Flutter<br><br>🤝 I’m looking for help with React/Nextjs/Firebase/Flutter<br><br>🌱 I’m currently learning Flutter/NextJs<br><br>💬 Ask me about Anupa4085@gmail.com<br><br>⚡ Fun fact I'm crazy wid programming | Coder4113N <br>
+🔭 I’m currently working on Nextjs/Flutter<br><br>👯 I’m looking to collaborate on React/Nextjs/Firebase/Flutter<br><br>🤝 I’m looking for help with Docker/React/Nextjs/Firebase/Flutter<br><br>🌱 I’m currently learning K8S/AWS<br><br>💬 Ask me about Anupa4085@gmail.com<br><br>⚡ Fun fact I'm crazy wid programming | Coder4113N <br>
 
 <img align="center" alt="line" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"><br>
 

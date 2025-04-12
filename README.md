@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuv6&label=Profile%20views&color=0e75b6&style=flat" alt="anuv6" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Nextjs/Flutter<br><br>👯 I’m looking to collaborate on React/Nextjs/Firebase/Flutter<br><br>🤝 I’m looking for help with Docker/React/Nextjs/Firebase/Flutter<br><br>🌱 I’m currently learning K8S/AWS<br><br>💬 Ask me about Anupa4085@gmail.com<br><br>⚡ Fun fact I'm crazy wid programming | Coder4113N <br>
+🔭 I’m currently working on Docker/K8s<br><br>👯 I’m looking to collaborate on AWS/Azure/Docker/K8s<br><br>🤝 I’m looking for help with Docker/React/Nextjs/Firebase/Flutter<br><br>🌱 I’m currently learning Terraform/Azure<br><br>💬 Ask me about anupa4085@gmail.com<br><br>⚡ Fun fact I’m agile | Coder4113N <br>
 
 <img align="center" alt="line" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"><br>
 
